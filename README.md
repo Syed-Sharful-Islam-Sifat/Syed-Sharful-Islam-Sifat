@@ -1,4 +1,13 @@
+# Hi 👋, I'm Sifat
+## Full Stack Software Engineer 
 
+🔭 I'm currently working on: Olik eats. A multi tenant restaurant software management
+
+🌱 I'm currently learning: System Design
+
+💬 Ask me about: Collaboration, Tech Support
+
+📫 How to reach me: sharful.swe@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-sharful-islam-sifat-b6aab1202) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sharful57221227) 
 
